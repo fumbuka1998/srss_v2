@@ -1,0 +1,10 @@
+/node_modules
+/public/storage
+/public/hot
+/storage/*.key
+/vendor
+/.env.backup
+/storage
+/.vscode
+*.pdf
+public/reports/temp/

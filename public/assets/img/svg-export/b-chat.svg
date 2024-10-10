@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="75" viewBox="0 0 80 75" version="1.1">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>b-chat</title>
+    <desc>Created with Sketch.</desc>
+    <g id="New-new" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="grades_by_student-copy-4" transform="translate(-489.000000, -767.000000)" fill-rule="nonzero">
+            <g id="b-chat" transform="translate(489.000000, 767.000000)">
+                <path d="M72.5,17.5 L70,17.5 L70,40 C69.9917347,46.9001329 64.4001329,52.4917347 57.5,52.5 L37.8175,52.5 L29.25,60 L49.2,60 L70,74.8575 L70,60 L72.5,60 C76.6421356,60 80,56.6421356 80,52.5 L80,25 C80,20.8578644 76.6421356,17.5 72.5,17.5 Z" id="Path" fill="#36A000"/>
+                <path d="M57.5,0 L7.5,0 C3.35786438,0 0,3.35786438 0,7.5 L0,40 C0,44.1421356 3.35786438,47.5 7.5,47.5 L12.5,47.5 L12.5,68 L35.94,47.5 L57.5,47.5 C61.6421356,47.5 65,44.1421356 65,40 L65,7.5 C65,3.35786438 61.6421356,0 57.5,0 Z" id="Path" fill="#2A466F"/>
+            </g>
+        </g>
+    </g>
+</svg>
